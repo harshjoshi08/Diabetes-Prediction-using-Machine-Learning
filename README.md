@@ -1,4 +1,4 @@
-# 📊 Diabetes Prediction using SVM
+# 📊 Diabetes Prediction using Machine Learning
 
 ## 🚀 Project Overview
 This project aims to predict diabetes in patients using machine learning techniques. The **PIMA Diabetes dataset** is analyzed, preprocessed, and modeled using **Support Vector Machine (SVM)** for classification.
