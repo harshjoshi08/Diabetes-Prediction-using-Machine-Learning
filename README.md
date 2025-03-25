@@ -24,22 +24,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - **Evaluation Metrics:** Accuracy Score, Confusion Matrix
 
 
-## 📌 Usage
-To run this project from **GitHub**, follow these steps:
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
-   cd diabetes-prediction
-   ```
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Jupyter Notebook**
-   ```bash
-   jupyter notebook code.ipynb
-   ```
-4. **Execute Each Cell to Train & Evaluate the Model**
 
 ## 📸 Step-by-Step Workflow
 1. **Load the Dataset** 📂  
